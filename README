@@ -1,8 +1,8 @@
 App-ZofCMS-Plugin-Sub
 
-The module is a plugin for L<App::ZofCMS> that allows you to execute a sub... by setting
-plugin's priority setting you, effectively, can set the priority of the sub. Not much but I
-need this.
+The module is a plugin for L<App::ZofCMS> that allows you to execute a
+sub... by setting plugin's priority setting you, effectively, can set
+the priority of the sub. Not much but I need this.
 
 INSTALLATION
 

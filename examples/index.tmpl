@@ -1,0 +1,7 @@
+{
+    plugins => [ { Sub => 1000 }, ], # set needed priority
+    plug_sub => sub {
+        my ( $template, $query, $config ) = @_;
+        # do stuff
+    }
+}
